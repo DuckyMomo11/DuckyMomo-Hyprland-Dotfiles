@@ -1,8 +1,0 @@
-2025-03-05 09:20:44.190 [info] Getting Manifest... pkief.material-icon-theme
-2025-03-05 09:20:44.968 [info] Installing extension: pkief.material-icon-theme {"productVersion":{"version":"1.97.0","date":"2025-02-07T17:57:43.923Z"},"pinned":false,"operation":3,"isApplicationScoped":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/maguila/.vscode-oss/extensions/extensions.json","path":"/home/maguila/.vscode-oss/extensions/extensions.json","scheme":"vscode-userdata"},"installOnlyNewlyAddedFromExtensionPack":true}
-2025-03-05 09:20:46.789 [error] Could not load vsce-sign module Cannot find package '@vscode/vsce-sign' imported from /usr/lib/code/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js
-2025-03-05 09:20:46.789 [info] Extension signature verification is not done: pkief.material-icon-theme
-2025-03-05 09:20:47.699 [info] Extracted extension to file:///home/maguila/.vscode-oss/extensions/pkief.material-icon-theme-5.20.0-universal: pkief.material-icon-theme
-2025-03-05 09:20:47.745 [info] Renamed to /home/maguila/.vscode-oss/extensions/pkief.material-icon-theme-5.20.0-universal
-2025-03-05 09:20:47.768 [info] Marked extension as removed pkief.material-icon-theme-5.19.0
-2025-03-05 09:20:47.789 [info] Extension installed successfully: pkief.material-icon-theme vscode-userdata:/home/maguila/.vscode-oss/extensions/extensions.json

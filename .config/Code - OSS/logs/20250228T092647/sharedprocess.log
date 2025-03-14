@@ -1,8 +1,0 @@
-2025-02-28 09:26:55.016 [info] Getting Manifest... streetsidesoftware.code-spell-checker
-2025-02-28 09:26:56.461 [info] Installing extension: streetsidesoftware.code-spell-checker {"productVersion":{"version":"1.97.0","date":"2025-02-07T17:57:43.923Z"},"pinned":false,"operation":3,"isApplicationScoped":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/maguila/.vscode-oss/extensions/extensions.json","path":"/home/maguila/.vscode-oss/extensions/extensions.json","scheme":"vscode-userdata"},"installOnlyNewlyAddedFromExtensionPack":true}
-2025-02-28 09:26:57.900 [error] Could not load vsce-sign module Cannot find package '@vscode/vsce-sign' imported from /usr/lib/code/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js
-2025-02-28 09:26:57.901 [info] Extension signature verification is not done: streetsidesoftware.code-spell-checker
-2025-02-28 09:26:58.289 [info] Extracted extension to file:///home/maguila/.vscode-oss/extensions/streetsidesoftware.code-spell-checker-4.0.40-universal: streetsidesoftware.code-spell-checker
-2025-02-28 09:26:58.326 [info] Renamed to /home/maguila/.vscode-oss/extensions/streetsidesoftware.code-spell-checker-4.0.40-universal
-2025-02-28 09:26:58.351 [info] Marked extension as removed streetsidesoftware.code-spell-checker-4.0.39
-2025-02-28 09:26:58.359 [info] Extension installed successfully: streetsidesoftware.code-spell-checker vscode-userdata:/home/maguila/.vscode-oss/extensions/extensions.json

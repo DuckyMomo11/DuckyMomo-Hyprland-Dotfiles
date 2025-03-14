@@ -1,1 +1,0 @@
-document.getElementById("date").textContent = `February 27 2025`;
