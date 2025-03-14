@@ -1,0 +1,154 @@
+2025-03-05 09:20:42.491 [warning] /home/maguila/.ssh/config: ENOENT: no such file or directory, open '/home/maguila/.ssh/config'
+2025-03-05 09:20:42.491 [info] Activation> Extension version: 0.104.1
+2025-03-05 09:20:42.518 [info] Looking for git repository
+2025-03-05 09:20:42.518 [info] Found 0 repositories during activation
+2025-03-05 09:20:42.518 [info] Git repository found, initializing review manager and pr tree view.
+2025-03-05 09:20:42.520 [info] Registering git provider
+2025-03-05 09:22:59.460 [warning] /home/maguila/.ssh/config: ENOENT: no such file or directory, open '/home/maguila/.ssh/config'
+2025-03-05 09:22:59.460 [info] Activation> Extension version: 0.104.1
+2025-03-05 09:22:59.481 [info] Looking for git repository
+2025-03-05 09:22:59.481 [info] Found 0 repositories during activation
+2025-03-05 09:22:59.481 [info] Git repository found, initializing review manager and pr tree view.
+2025-03-05 09:23:02.820 [info] Registering git provider
+2025-03-05 09:23:03.037 [info] Repository file:///home/maguila/configs/DuckyMomo-Hyprland-Dotfiles has been opened
+2025-03-05 09:23:03.041 [info] Git initialization state changed: state=initialized
+2025-03-05 09:23:03.041 [info] Review+0> Validate state in progress
+2025-03-05 09:23:03.041 [info] Review+0> Validating state...
+2025-03-05 09:23:03.041 [warning] No remotes found. The following remotes are missing: origin, upstream
+2025-03-05 09:23:03.041 [info] No GitHub remotes found for folder /home/maguila/configs/DuckyMomo-Hyprland-Dotfiles
+2025-03-05 09:23:03.042 [info] FolderRepositoryManager+0> Trying to use globalState for assignableUsers.
+2025-03-05 09:23:03.064 [info] FolderRepositoryManager+0> GlobalState does not exist for assignableUsers.
+2025-03-05 09:23:03.181 [info] Review+0> Validate state in progress
+2025-03-05 09:23:03.181 [info] Review+0> Validating state...
+2025-03-05 09:23:03.182 [info] Repo state for file:///home/maguila/configs/DuckyMomo-Hyprland-Dotfiles changed.
+2025-03-05 09:23:03.183 [info] Repo file:///home/maguila/configs/DuckyMomo-Hyprland-Dotfiles has already been setup.
+2025-03-05 09:23:03.231 [info] Found GitHub remote for folder /home/maguila/configs/DuckyMomo-Hyprland-Dotfiles
+2025-03-05 09:23:03.232 [info] Using in-memory cached assignable users.
+2025-03-05 09:23:03.276 [info] Review+0> No matching pull request metadata found locally for current branch main
+2025-03-05 09:23:03.277 [info] Review+0> No matching pull request metadata found on GitHub for current branch main
+2025-03-05 09:24:20.195 [warning] /home/maguila/.ssh/config: ENOENT: no such file or directory, open '/home/maguila/.ssh/config'
+2025-03-05 09:24:20.196 [info] Activation> Extension version: 0.104.1
+2025-03-05 09:24:20.223 [info] Looking for git repository
+2025-03-05 09:24:20.223 [info] Found 0 repositories during activation
+2025-03-05 09:24:20.223 [info] Git repository found, initializing review manager and pr tree view.
+2025-03-05 09:24:20.225 [info] Registering git provider
+2025-03-05 09:24:25.037 [warning] /home/maguila/.ssh/config: ENOENT: no such file or directory, open '/home/maguila/.ssh/config'
+2025-03-05 09:24:25.037 [info] Activation> Extension version: 0.104.1
+2025-03-05 09:24:25.382 [info] Looking for git repository
+2025-03-05 09:24:25.383 [info] Found 0 repositories during activation
+2025-03-05 09:24:25.383 [info] Git repository found, initializing review manager and pr tree view.
+2025-03-05 09:24:25.389 [info] Registering git provider
+2025-03-05 09:24:25.389 [info] Review+0> Validate state in progress
+2025-03-05 09:24:25.389 [info] Review+0> Validating state...
+2025-03-05 09:24:25.418 [info] Found GitHub remote for folder /home/maguila/configs
+2025-03-05 09:24:25.420 [info] FolderRepositoryManager+0> Trying to use globalState for assignableUsers.
+2025-03-05 09:24:25.447 [info] Review+0> No matching pull request metadata found locally for current branch main
+2025-03-05 09:24:25.448 [info] Review+0> No matching pull request metadata found on GitHub for current branch main
+2025-03-05 09:24:25.449 [info] FolderRepositoryManager+0> GlobalState does not exist for assignableUsers.
+2025-03-05 09:25:58.948 [info] Repo state for file:///home/maguila/configs changed.
+2025-03-05 09:25:58.948 [info] Repo file:///home/maguila/configs has already been setup.
+2025-03-05 09:28:24.860 [warning] /home/maguila/.ssh/config: ENOENT: no such file or directory, open '/home/maguila/.ssh/config'
+2025-03-05 09:28:24.860 [info] Activation> Extension version: 0.104.1
+2025-03-05 09:28:24.890 [info] Looking for git repository
+2025-03-05 09:28:24.890 [info] Found 0 repositories during activation
+2025-03-05 09:28:24.890 [info] Git repository found, initializing review manager and pr tree view.
+2025-03-05 09:28:26.360 [info] Registering git provider
+2025-03-05 09:28:26.669 [info] Git initialization state changed: state=initialized
+2025-03-05 09:28:37.922 [warning] /home/maguila/.ssh/config: ENOENT: no such file or directory, open '/home/maguila/.ssh/config'
+2025-03-05 09:28:37.922 [info] Activation> Extension version: 0.104.1
+2025-03-05 09:28:39.089 [info] Looking for git repository
+2025-03-05 09:28:39.089 [info] Found 0 repositories during activation
+2025-03-05 09:28:39.089 [info] Git repository found, initializing review manager and pr tree view.
+2025-03-05 09:28:39.097 [info] Registering git provider
+2025-03-05 09:28:39.097 [info] Review+0> Validate state in progress
+2025-03-05 09:28:39.097 [info] Review+0> Validating state...
+2025-03-05 09:28:39.134 [info] Found GitHub remote for folder /home/maguila/configs
+2025-03-05 09:28:39.136 [info] FolderRepositoryManager+0> Trying to use globalState for assignableUsers.
+2025-03-05 09:28:39.170 [info] Review+0> No matching pull request metadata found locally for current branch main
+2025-03-05 09:28:39.172 [info] Review+0> No matching pull request metadata found on GitHub for current branch main
+2025-03-05 09:28:39.178 [info] FolderRepositoryManager+0> GlobalState does not exist for assignableUsers.
+2025-03-05 09:29:00.004 [warning] /home/maguila/.ssh/config: ENOENT: no such file or directory, open '/home/maguila/.ssh/config'
+2025-03-05 09:29:00.004 [info] Activation> Extension version: 0.104.1
+2025-03-05 09:29:00.045 [info] Looking for git repository
+2025-03-05 09:29:00.045 [info] Found 0 repositories during activation
+2025-03-05 09:29:00.045 [info] Git repository found, initializing review manager and pr tree view.
+2025-03-05 09:29:00.046 [info] Registering git provider
+2025-03-05 09:29:08.032 [warning] /home/maguila/.ssh/config: ENOENT: no such file or directory, open '/home/maguila/.ssh/config'
+2025-03-05 09:29:08.032 [info] Activation> Extension version: 0.104.1
+2025-03-05 09:29:08.440 [info] Looking for git repository
+2025-03-05 09:29:08.440 [info] Found 0 repositories during activation
+2025-03-05 09:29:08.440 [info] Git repository found, initializing review manager and pr tree view.
+2025-03-05 09:29:08.449 [info] Registering git provider
+2025-03-05 09:29:08.449 [info] Review+0> Validate state in progress
+2025-03-05 09:29:08.449 [info] Review+0> Validating state...
+2025-03-05 09:29:08.492 [info] Found GitHub remote for folder /home/maguila/configs
+2025-03-05 09:29:08.494 [info] FolderRepositoryManager+0> Trying to use globalState for assignableUsers.
+2025-03-05 09:29:08.593 [info] FolderRepositoryManager+0> GlobalState does not exist for assignableUsers.
+2025-03-05 09:29:08.610 [info] Review+0> No matching pull request metadata found locally for current branch main
+2025-03-05 09:29:08.611 [info] Review+0> No matching pull request metadata found on GitHub for current branch main
+2025-03-05 09:29:19.198 [warning] /home/maguila/.ssh/config: ENOENT: no such file or directory, open '/home/maguila/.ssh/config'
+2025-03-05 09:29:19.198 [info] Activation> Extension version: 0.104.1
+2025-03-05 09:29:19.218 [info] Looking for git repository
+2025-03-05 09:29:19.218 [info] Found 0 repositories during activation
+2025-03-05 09:29:19.218 [info] Git repository found, initializing review manager and pr tree view.
+2025-03-05 09:29:19.219 [info] Registering git provider
+2025-03-05 09:29:32.291 [info] Repository file:///home/maguila/configs has been opened
+2025-03-05 09:29:32.291 [info] Review+0> Validate state in progress
+2025-03-05 09:29:32.291 [info] Review+0> Validating state...
+2025-03-05 09:29:32.293 [warning] No remotes found. The following remotes are missing: origin, upstream
+2025-03-05 09:29:32.294 [info] No GitHub remotes found for folder /home/maguila/configs
+2025-03-05 09:29:32.295 [info] FolderRepositoryManager+0> Trying to use globalState for assignableUsers.
+2025-03-05 09:29:32.342 [info] FolderRepositoryManager+0> GlobalState does not exist for assignableUsers.
+2025-03-05 09:29:32.385 [info] Review+0> Validate state in progress
+2025-03-05 09:29:32.385 [info] Review+0> Validating state...
+2025-03-05 09:29:32.385 [info] Repo state for file:///home/maguila/configs changed.
+2025-03-05 09:29:32.385 [info] Repo file:///home/maguila/configs has already been setup.
+2025-03-05 09:29:32.438 [info] Found GitHub remote for folder /home/maguila/configs
+2025-03-05 09:29:32.438 [info] Using in-memory cached assignable users.
+2025-03-05 09:29:32.468 [info] Review+0> No matching pull request metadata found locally for current branch main
+2025-03-05 09:29:32.469 [info] Review+0> No matching pull request metadata found on GitHub for current branch main
+2025-03-05 09:29:51.722 [warning] /home/maguila/.ssh/config: ENOENT: no such file or directory, open '/home/maguila/.ssh/config'
+2025-03-05 09:29:51.722 [info] Activation> Extension version: 0.104.1
+2025-03-05 09:29:51.804 [info] Looking for git repository
+2025-03-05 09:29:51.804 [info] Found 0 repositories during activation
+2025-03-05 09:29:51.804 [info] Git repository found, initializing review manager and pr tree view.
+2025-03-05 09:29:51.811 [info] Registering git provider
+2025-03-05 09:29:51.811 [info] Review+0> Validate state in progress
+2025-03-05 09:29:51.811 [info] Review+0> Validating state...
+2025-03-05 09:29:51.875 [info] Found GitHub remote for folder /home/maguila/configs
+2025-03-05 09:29:51.877 [info] FolderRepositoryManager+0> Trying to use globalState for assignableUsers.
+2025-03-05 09:29:51.896 [info] Review+0> No matching pull request metadata found locally for current branch main
+2025-03-05 09:29:51.896 [info] Review+0> No matching pull request metadata found on GitHub for current branch main
+2025-03-05 09:29:51.897 [info] FolderRepositoryManager+0> GlobalState does not exist for assignableUsers.
+2025-03-05 09:32:09.373 [info] Repo state for file:///home/maguila/configs changed.
+2025-03-05 09:32:09.373 [info] Repo file:///home/maguila/configs has already been setup.
+2025-03-07 10:12:44.837 [info] Review+0> Validate state in progress
+2025-03-07 10:12:44.842 [info] Review+0> Validating state...
+2025-03-07 10:12:44.918 [info] Found GitHub remote for folder /home/maguila/configs
+2025-03-07 10:12:44.919 [info] Using in-memory cached assignable users.
+2025-03-07 10:12:44.937 [info] Review+0> No matching pull request metadata found locally for current branch main
+2025-03-07 10:12:44.938 [info] Review+0> No matching pull request metadata found on GitHub for current branch main
+2025-03-07 10:12:54.539 [info] Review+0> Validate state in progress
+2025-03-07 10:12:54.539 [info] Review+0> Validating state...
+2025-03-07 10:12:54.608 [info] Found GitHub remote for folder /home/maguila/configs
+2025-03-07 10:12:54.608 [info] Using in-memory cached assignable users.
+2025-03-07 10:12:54.643 [info] Review+0> No matching pull request metadata found locally for current branch main
+2025-03-07 10:12:54.644 [info] Review+0> No matching pull request metadata found on GitHub for current branch main
+2025-03-07 10:25:32.944 [info] Review+0> Validate state in progress
+2025-03-07 10:25:32.944 [info] Review+0> Validating state...
+2025-03-07 10:25:33.024 [info] Found GitHub remote for folder /home/maguila/configs
+2025-03-07 10:25:33.025 [info] Using in-memory cached assignable users.
+2025-03-07 10:25:33.047 [info] Review+0> No matching pull request metadata found locally for current branch main
+2025-03-07 10:25:33.047 [info] Review+0> No matching pull request metadata found on GitHub for current branch main
+2025-03-07 10:25:41.590 [info] Review+0> Validate state in progress
+2025-03-07 10:25:41.590 [info] Review+0> Validating state...
+2025-03-07 10:25:41.652 [info] Found GitHub remote for folder /home/maguila/configs
+2025-03-07 10:25:41.653 [info] Using in-memory cached assignable users.
+2025-03-07 10:25:41.687 [info] Review+0> No matching pull request metadata found locally for current branch main
+2025-03-07 10:25:41.687 [info] Review+0> No matching pull request metadata found on GitHub for current branch main
+2025-03-07 11:16:12.975 [warning] /home/maguila/.ssh/config: ENOENT: no such file or directory, open '/home/maguila/.ssh/config'
+2025-03-07 11:16:12.975 [info] Activation> Extension version: 0.104.1
+2025-03-07 11:16:13.020 [info] Looking for git repository
+2025-03-07 11:16:13.020 [info] Found 0 repositories during activation
+2025-03-07 11:16:13.020 [info] Git repository found, initializing review manager and pr tree view.
+2025-03-07 11:16:13.021 [info] Registering git provider

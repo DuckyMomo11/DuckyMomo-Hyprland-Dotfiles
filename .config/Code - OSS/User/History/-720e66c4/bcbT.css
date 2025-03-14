@@ -1,0 +1,27 @@
+* {
+      background-color: rgb(153, 72, 129);
+      font-family: 'Courier New', Courier, monospace;
+      font-size: 25px;
+      display: grid;
+}
+
+.wrapper {
+      grid-template-rows: repeat(4, 1rf);
+      grid-template-columns: repeat(4, 1rf);
+}
+
+.header {
+      grid-row: 1;
+}
+
+.intro {
+      
+}
+
+.prereq {
+
+}
+
+.jstutorial {
+
+}

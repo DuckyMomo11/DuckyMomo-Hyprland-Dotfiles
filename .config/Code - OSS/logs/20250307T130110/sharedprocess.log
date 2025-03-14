@@ -1,0 +1,6 @@
+2025-03-07 13:01:12.794 [info] Marked extension as removed github.vscode-pull-request-github-0.104.1
+2025-03-07 13:01:12.795 [info] Marked extension as removed ms-python.debugpy-2025.0.1
+2025-03-07 13:01:12.795 [info] Marked extension as removed ms-python.python-2025.0.0
+2025-03-07 13:01:12.834 [info] Deleted marked for removal extension from disk github.vscode-pull-request-github /home/maguila/.vscode-oss/extensions/github.vscode-pull-request-github-0.104.1-universal
+2025-03-07 13:01:12.950 [info] Deleted marked for removal extension from disk ms-python.debugpy /home/maguila/.vscode-oss/extensions/ms-python.debugpy-2025.0.1-linux-x64
+2025-03-07 13:01:13.004 [info] Deleted marked for removal extension from disk ms-python.python /home/maguila/.vscode-oss/extensions/ms-python.python-2025.0.0-universal

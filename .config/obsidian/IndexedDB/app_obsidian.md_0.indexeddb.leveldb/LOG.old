@@ -1,0 +1,5 @@
+2025/03/12-15:22:11.666 395 Reusing MANIFEST /home/maguila/.config/obsidian/IndexedDB/app_obsidian.md_0.indexeddb.leveldb/MANIFEST-000001
+2025/03/12-15:22:11.666 395 Recovering log #51
+2025/03/12-15:22:11.675 395 Reusing old log /home/maguila/.config/obsidian/IndexedDB/app_obsidian.md_0.indexeddb.leveldb/000051.log 
+2025/03/12-15:22:11.675 395 Delete type=2 #49
+2025/03/12-15:22:11.676 395 Delete type=2 #52

@@ -1,0 +1,7 @@
+2025-03-03 10:00:14.554 [info] update#setState disabled
+2025-03-03 10:00:14.556 [info] update#ctor - updates are disabled as there is no update URL
+2025-03-05 08:46:05.867 [error] [UtilityProcessWorker]: terminated unexpectedly with code 15, signal: unknown
+2025-03-05 08:46:05.870 [error] [UtilityProcess id: 1, type: fileWatcher, pid: 1690]: crashed with code 15 and reason 'killed'
+2025-03-05 08:46:05.876 [info] Extension host with pid 1669 exited with code: 15, signal: unknown.
+2025-03-05 08:46:05.878 [error] [UtilityProcess id: 1, type: extensionHost, pid: 1669]: crashed with code 15 and reason 'killed'
+2025-03-05 08:46:05.883 [error] [UtilityProcess type: shared-process, pid: 1689]: crashed with code 15 and reason 'killed'

@@ -1,0 +1,7 @@
+{
+    "editor.tabSize": 6,
+    "editor.wordWrap": "on",
+    "editor.bracketPairColorization.independentColorPoolPerBracketType": true,
+    "editor.mouseWheelZoom": true,
+    "editor.tabCompletion": "on"
+}

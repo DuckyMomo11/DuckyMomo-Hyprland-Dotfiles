@@ -1,0 +1,46 @@
+2025-02-28 00:05:36.516 [info] Started local extension host with pid 9534.
+2025-02-28 00:05:37.305 [error] Extension 'GitHub.vscode-pull-request-github CANNOT USE these API proposals 'activeComment, codiconDecoration, codeActionRanges, commentingRangeHint, commentReactor, commentReveal, commentThreadApplicability, contribAccessibilityHelpContent, contribCommentEditorActionsMenu, contribCommentPeekContext, contribCommentThreadAdditionalMenu, contribCommentsViewThreadMenus, contribEditorContentMenu, contribShareMenu, diffCommand, quickDiffProvider, shareProvider, tokenInformation, treeViewMarkdownMessage'. You MUST start in extension development mode or use the --enable-proposed-api command line flag
+2025-02-28 00:05:37.306 [error] Extension 'ms-python.debugpy CANNOT USE these API proposals 'portsAttributes, debugVisualization, contribViewsWelcome'. You MUST start in extension development mode or use the --enable-proposed-api command line flag
+2025-02-28 00:05:37.306 [error] Extension 'ms-python.python CANNOT USE these API proposals 'contribEditorContentMenu, quickPickSortByLabel, testObserver, quickPickItemTooltip, terminalDataWriteEvent, terminalExecuteCommandEvent, codeActionAI, notebookReplDocument, notebookVariableProvider'. You MUST start in extension development mode or use the --enable-proposed-api command line flag
+2025-02-28 00:05:37.418 [error] [GitHub.vscode-pull-request-github]: commentsView/commentThread/context is a proposed menu identifier. It requires 'package.json#enabledApiProposals: ["contribCommentsViewThreadMenus"]' and is only available when running out of dev or with the following command line switch: --enable-proposed-api GitHub.vscode-pull-request-github
+2025-02-28 00:05:37.419 [error] [GitHub.vscode-pull-request-github]: editor/content is a proposed menu identifier. It requires 'package.json#enabledApiProposals: ["contribEditorContentMenu"]' and is only available when running out of dev or with the following command line switch: --enable-proposed-api GitHub.vscode-pull-request-github
+2025-02-28 00:05:37.419 [error] [GitHub.vscode-pull-request-github]: comments/comment/editorActions is a proposed menu identifier. It requires 'package.json#enabledApiProposals: ["contribCommentEditorActionsMenu"]' and is only available when running out of dev or with the following command line switch: --enable-proposed-api GitHub.vscode-pull-request-github
+2025-02-28 00:05:37.420 [error] [GitHub.vscode-pull-request-github]: comments/commentThread/additionalActions is a proposed menu identifier. It requires 'package.json#enabledApiProposals: ["contribCommentThreadAdditionalMenu"]' and is only available when running out of dev or with the following command line switch: --enable-proposed-api GitHub.vscode-pull-request-github
+2025-02-28 00:05:37.421 [error] [GitHub.vscode-pull-request-github]: comments/commentThread/title/context is a proposed menu identifier. It requires 'package.json#enabledApiProposals: ["contribCommentPeekContext"]' and is only available when running out of dev or with the following command line switch: --enable-proposed-api GitHub.vscode-pull-request-github
+2025-02-28 00:05:37.422 [error] [GitHub.vscode-pull-request-github]: comments/commentThread/comment/context is a proposed menu identifier. It requires 'package.json#enabledApiProposals: ["contribCommentPeekContext"]' and is only available when running out of dev or with the following command line switch: --enable-proposed-api GitHub.vscode-pull-request-github
+2025-02-28 00:05:37.423 [error] [GitHub.vscode-pull-request-github]: editor/context/share is a proposed menu identifier. It requires 'package.json#enabledApiProposals: ["contribShareMenu"]' and is only available when running out of dev or with the following command line switch: --enable-proposed-api GitHub.vscode-pull-request-github
+2025-02-28 00:05:37.424 [error] [GitHub.vscode-pull-request-github]: file/share is a proposed menu identifier. It requires 'package.json#enabledApiProposals: ["contribShareMenu"]' and is only available when running out of dev or with the following command line switch: --enable-proposed-api GitHub.vscode-pull-request-github
+2025-02-28 00:05:37.426 [error] [GitHub.vscode-pull-request-github]: editor/title/context/share is a proposed menu identifier. It requires 'package.json#enabledApiProposals: ["contribShareMenu"]' and is only available when running out of dev or with the following command line switch: --enable-proposed-api GitHub.vscode-pull-request-github
+2025-02-28 00:05:37.427 [error] [GitHub.vscode-pull-request-github]: explorer/context/share is a proposed menu identifier. It requires 'package.json#enabledApiProposals: ["contribShareMenu"]' and is only available when running out of dev or with the following command line switch: --enable-proposed-api GitHub.vscode-pull-request-github
+2025-02-28 00:05:37.428 [error] [ms-python.python]: editor/content is a proposed menu identifier. It requires 'package.json#enabledApiProposals: ["contribEditorContentMenu"]' and is only available when running out of dev or with the following command line switch: --enable-proposed-api ms-python.python
+2025-02-28 00:05:41.256 [error] Error while getting the latest version for the extension auiworks.amvim. Cannot read properties of undefined (reading 'replace')
+2025-02-28 00:05:41.257 [error] Error while getting the latest version for the extension catppuccin.catppuccin-vsc. Cannot read properties of undefined (reading 'replace')
+2025-02-28 00:05:41.258 [error] Error while getting the latest version for the extension catppuccin.catppuccin-vsc-icons. Cannot read properties of undefined (reading 'replace')
+2025-02-28 00:05:41.258 [error] Error while getting the latest version for the extension currybab.hybrid-line-numbers. Cannot read properties of undefined (reading 'replace')
+2025-02-28 00:05:41.260 [error] Error while getting the latest version for the extension esbenp.prettier-vscode. Cannot read properties of undefined (reading 'replace')
+2025-02-28 00:05:41.263 [error] Error while getting the latest version for the extension formulahendry.code-runner. Cannot read properties of undefined (reading 'replace')
+2025-02-28 00:05:41.265 [error] Error while getting the latest version for the extension github.vscode-pull-request-github. Cannot read properties of undefined (reading 'replace')
+2025-02-28 00:05:41.266 [error] Error while getting the latest version for the extension llvm-vs-code-extensions.vscode-clangd. Cannot read properties of undefined (reading 'replace')
+2025-02-28 00:05:41.269 [error] Error while getting the latest version for the extension ms-python.debugpy. Cannot read properties of undefined (reading 'replace')
+2025-02-28 00:05:41.271 [error] Error while getting the latest version for the extension ms-python.python. Cannot read properties of undefined (reading 'replace')
+2025-02-28 00:05:41.273 [error] Error while getting the latest version for the extension ms-vscode.live-server. Cannot read properties of undefined (reading 'replace')
+2025-02-28 00:05:41.274 [error] Error while getting the latest version for the extension pkief.material-icon-theme. Cannot read properties of undefined (reading 'replace')
+2025-02-28 00:05:41.276 [error] Error while getting the latest version for the extension streetsidesoftware.code-spell-checker. Cannot read properties of undefined (reading 'replace')
+2025-02-28 00:05:41.888 [info] [perf] Render performance baseline is 61ms
+2025-02-28 00:06:35.175 [warning] Settings pattern "issueReporter.*" doesn't match any settings
+2025-02-28 00:07:54.285 [warning] Settings pattern "issueReporter.*" doesn't match any settings
+2025-02-28 00:08:11.617 [warning] Settings pattern "issueReporter.*" doesn't match any settings
+2025-02-28 00:09:00.270 [error] Error: The editor could not be opened because the file was not found.
+    at aye.gc (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2107:120310)
+    at async aye.setInput (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2107:119468)
+    at async NFe.U (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:526:19761)
+    at async NFe.M (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:526:18312)
+    at async NFe.openEditor (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:526:17394)
+    at async vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:638:23634
+    at async W9e.M (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:1250:29196)
+    at async W9e.openCodeEditor (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:1250:20497)
+    at async y_e.open (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:1310:634)
+    at async C_e.open (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:1310:1666)
+2025-02-28 00:17:09.177 [error] [Extension Host] Error: Unexpected SIGPIPE
+	at process.<anonymous> (file:///usr/lib/code/out/bootstrap-fork.js:3:11831)
+	at process.emit (node:events:518:28)

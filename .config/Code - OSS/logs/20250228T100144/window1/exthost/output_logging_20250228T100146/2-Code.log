@@ -1,0 +1,110 @@
+[Running] node "/home/maguila/gitRepos/Learning-JavaScript/JavaScript Course/JS Files/01_Basics/01_Console/script.js"
+100
+
+[Done] exited with code=0 in 0.077 seconds
+
+[Running] node "/home/maguila/gitRepos/Learning-JavaScript/JavaScript Course/JS Files/01_Basics/01_Console/script.js"
+100
+Hello World
+20 Hello true
+100
+┌─────────┬──────────┐
+│ (index) │ Values   │
+├─────────┼──────────┤
+│ name    │ 'Martin' │
+│ age     │ 21       │
+└─────────┴──────────┘
+simple
+Alert
+Warning
+  Alert
+  Warning
+  100
+Hello World
+
+[Done] exited with code=0 in 0.079 seconds
+
+[Running] node "/home/maguila/gitRepos/Learning-JavaScript/JavaScript Course/JS Files/01_Basics/01_Console/script.js"
+100
+Hello World
+20 Hello true
+100
+Alert
+Warning
+┌─────────┬──────────┐
+│ (index) │ Values   │
+├─────────┼──────────┤
+│ name    │ 'Martin' │
+│ age     │ 21       │
+└─────────┴──────────┘
+simple
+  100
+  Alert
+  Warning
+Hello World padding 10px; background-color: black; color: white;
+
+[Done] exited with code=0 in 0.085 seconds
+
+[Running] node "/home/maguila/gitRepos/Learning-JavaScript/JavaScript Course/JS Files/01_Basics/01_Console/script.js"
+100
+Hello World
+20 Hello true
+100
+Alert
+Warning
+┌─────────┬──────────┐
+│ (index) │ Values   │
+├─────────┼──────────┤
+│ name    │ 'Martin' │
+│ age     │ 21       │
+└─────────┴──────────┘
+simple
+  100
+Hello World padding 10px; background-color: black; color: white;
+  Alert
+  Warning
+
+[Done] exited with code=0 in 0.08 seconds
+
+[Running] node "/home/maguila/gitRepos/Learning-JavaScript/JavaScript Course/JS Files/01_Basics/01_Console/script.js"
+100
+Hello World
+20 Hello true
+100
+Alert
+Warning
+┌─────────┬──────────┐
+│ (index) │ Values   │
+├─────────┼──────────┤
+│ name    │ 'Martin' │
+│ age     │ 21       │
+└─────────┴──────────┘
+simple
+  100
+Hello World padding 10px; background-color: black; color: white;
+  Alert
+  Warning
+
+[Done] exited with code=0 in 0.074 seconds
+
+[Running] node "/home/maguila/gitRepos/Learning-JavaScript/JavaScript Course/JS Files/01_Basics/01_Console/script.js"
+100
+Hello World
+20 Hello true
+100
+Alert
+Warning
+┌─────────┬──────────┐
+│ (index) │ Values   │
+├─────────┼──────────┤
+│ name    │ 'Martin' │
+│ age     │ 21       │
+└─────────┴──────────┘
+simple
+  100
+Hello World
+  Alert
+  Warning
+
+[Done] exited with code=0 in 0.074 seconds
+

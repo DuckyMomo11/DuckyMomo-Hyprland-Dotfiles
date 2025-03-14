@@ -1,0 +1,15 @@
+2025-02-28 11:59:04.215 [warning] /home/maguila/.ssh/config: ENOENT: no such file or directory, open '/home/maguila/.ssh/config'
+2025-02-28 11:59:04.215 [info] Activation> Extension version: 0.104.1
+2025-02-28 11:59:04.508 [info] Looking for git repository
+2025-02-28 11:59:04.508 [info] Found 0 repositories during activation
+2025-02-28 11:59:04.508 [info] Git repository found, initializing review manager and pr tree view.
+2025-02-28 11:59:04.520 [info] Registering git provider
+2025-02-28 11:59:04.520 [info] Review+0> Validate state in progress
+2025-02-28 11:59:04.520 [info] Review+0> Validating state...
+2025-02-28 11:59:04.553 [info] Found GitHub remote for folder /home/maguila/gitRepos/Learning-JavaScript
+2025-02-28 11:59:04.556 [info] FolderRepositoryManager+0> Trying to use globalState for assignableUsers.
+2025-02-28 11:59:04.584 [info] Review+0> No matching pull request metadata found locally for current branch main
+2025-02-28 11:59:04.586 [info] Review+0> No matching pull request metadata found on GitHub for current branch main
+2025-02-28 11:59:04.617 [info] FolderRepositoryManager+0> GlobalState does not exist for assignableUsers.
+2025-02-28 11:59:38.293 [info] Repo state for file:///home/maguila/gitRepos/Learning-JavaScript changed.
+2025-02-28 11:59:38.293 [info] Repo file:///home/maguila/gitRepos/Learning-JavaScript has already been setup.

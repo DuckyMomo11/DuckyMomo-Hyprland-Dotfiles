@@ -1,0 +1,32 @@
+* {
+      background-color: thistle;
+      font-family:'Times New Roman', Times, serif;
+}
+
+.wrapper {
+      display: flex;
+      flex-wrap: wrap;
+
+}
+
+.heading {
+      padding: 10px;
+      text-align: center;
+}
+
+.code {
+      flex: 100%;
+}
+
+.snippet {
+      max-width:max-content;
+      background-color: darkmagenta;
+      padding: 10px;
+      font-size: 18px;
+      margin: 10px;
+      border-radius: 10px;
+}
+.snippet span {
+      background-color: transparent;
+}
+

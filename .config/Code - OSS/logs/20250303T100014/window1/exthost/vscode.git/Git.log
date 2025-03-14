@@ -1,0 +1,54 @@
+2025-03-03 10:00:18.227 [info] [main] Log level: Info
+2025-03-03 10:00:18.228 [info] [main] Validating found git in: "git"
+2025-03-03 10:00:18.228 [info] [main] Using git "2.48.1" from "git"
+2025-03-03 10:00:18.228 [info] [Model][doInitialScan] Initial repository scan started
+2025-03-03 10:00:18.228 [info] > git rev-parse --show-toplevel [14ms]
+2025-03-03 10:00:18.228 [info] > git rev-parse --git-dir --git-common-dir [4ms]
+2025-03-03 10:00:18.228 [info] [Model][openRepository] Opened repository: /home/maguila/gitRepos/Learning-JavaScript
+2025-03-03 10:00:18.790 [info] > git rev-parse --show-toplevel [534ms]
+2025-03-03 10:00:18.791 [info] > git config --get commit.template [547ms]
+2025-03-03 10:00:19.110 [info] > git rev-parse --show-toplevel [227ms]
+2025-03-03 10:00:19.112 [info] [Model][doInitialScan] Initial repository scan completed - repositories (1), closed repositories (0), parent repositories (0), unsafe repositories (0)
+2025-03-03 10:00:19.159 [info] > git show --textconv :JavaScript Course/JS Files/01_Basics/01_Console/style.css [31ms]
+2025-03-03 10:00:19.159 [info] > git ls-files --stage -- /home/maguila/gitRepos/Learning-JavaScript/JavaScript Course/JS Files/01_Basics/01_Console/style.css [16ms]
+2025-03-03 10:00:19.188 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [83ms]
+2025-03-03 10:00:19.205 [info] > git hash-object -t tree /dev/null [16ms]
+2025-03-03 10:00:19.205 [warning] [GitFileSystemProvider][readFile] File not found - git:/home/maguila/gitRepos/Learning-JavaScript/JavaScript%20Course/JS%20Files/01_Basics/01_Console/style.css.git?%7B%22path%22%3A%22%2Fhome%2Fmaguila%2FgitRepos%2FLearning-JavaScript%2FJavaScript%20Course%2FJS%20Files%2F01_Basics%2F01_Console%2Fstyle.css%22%2C%22ref%22%3A%22%22%7D
+2025-03-03 10:00:19.209 [info] > git hash-object -t tree /dev/null [36ms]
+2025-03-03 10:00:19.209 [warning] [GitFileSystemProvider][stat] File not found - git:/home/maguila/gitRepos/Learning-JavaScript/JavaScript%20Course/JS%20Files/01_Basics/01_Console/style.css.git?%7B%22path%22%3A%22%2Fhome%2Fmaguila%2FgitRepos%2FLearning-JavaScript%2FJavaScript%20Course%2FJS%20Files%2F01_Basics%2F01_Console%2Fstyle.css%22%2C%22ref%22%3A%22%22%7D
+2025-03-03 10:00:19.567 [info] > git check-ignore -v -z --stdin [76ms]
+2025-03-03 10:00:19.568 [info] > git status -z -uall [35ms]
+2025-03-03 10:00:19.569 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [23ms]
+2025-03-03 10:00:19.616 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [23ms]
+2025-03-03 10:00:19.649 [info] > git config --get --local branch.main.vscode-merge-base [21ms]
+2025-03-03 10:00:19.661 [info] > git config --get commit.template [47ms]
+2025-03-03 10:00:19.685 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/origin/main refs/remotes/origin/main [25ms]
+2025-03-03 10:00:19.730 [info] > git merge-base refs/heads/main refs/remotes/origin/main [25ms]
+2025-03-03 10:00:19.768 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [41ms]
+2025-03-03 10:00:19.772 [info] > git diff --name-status -z --diff-filter=ADMR 398c432d93eadcb9064658f837d1da9229831cbb...refs/remotes/origin/main [26ms]
+2025-03-03 10:00:19.776 [info] > git blame --root --incremental 398c432d93eadcb9064658f837d1da9229831cbb -- /home/maguila/gitRepos/Learning-JavaScript/JavaScript Course/JS Files/01_Basics/01_Console/style.css [11ms]
+2025-03-03 10:00:19.776 [info] fatal: no such path JavaScript Course/JS Files/01_Basics/01_Console/style.css in 398c432d93eadcb9064658f837d1da9229831cbb
+2025-03-03 10:00:19.810 [info] > git status -z -uall [15ms]
+2025-03-03 10:00:19.815 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [7ms]
+2025-03-03 10:00:19.892 [info] > git config --get --local branch.main.github-pr-owner-number [3ms]
+2025-03-03 10:00:19.892 [warning] [Git][config] git config failed: Failed to execute git
+2025-03-03 11:44:46.602 [info] > git show --textconv :JavaScript Course/Notes/01_Basics.md [14ms]
+2025-03-03 11:44:46.604 [info] > git ls-files --stage -- /home/maguila/gitRepos/Learning-JavaScript/JavaScript Course/Notes/01_Basics.md [4ms]
+2025-03-03 11:44:46.623 [info] > git cat-file -s 12c7e403ca106285b18a3b6b43aa82e7186632e0 [3ms]
+2025-03-03 11:44:46.655 [info] > git check-ignore -v -z --stdin [4ms]
+2025-03-03 11:44:46.906 [info] > git blame --root --incremental 398c432d93eadcb9064658f837d1da9229831cbb -- /home/maguila/gitRepos/Learning-JavaScript/JavaScript Course/Notes/01_Basics.md [12ms]
+2025-03-03 11:44:48.657 [info] > git show --textconv :JavaScript Course/Notes/01_Basics.md [14ms]
+2025-03-03 11:44:48.659 [info] > git ls-files --stage -- /home/maguila/gitRepos/Learning-JavaScript/JavaScript Course/Notes/01_Basics.md [3ms]
+2025-03-03 11:44:48.673 [info] > git cat-file -s 12c7e403ca106285b18a3b6b43aa82e7186632e0 [1ms]
+2025-03-03 11:50:29.103 [info] > git config --get commit.template [17ms]
+2025-03-03 11:50:29.105 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [4ms]
+2025-03-03 11:50:29.140 [info] > git status -z -uall [20ms]
+2025-03-03 11:50:29.144 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [4ms]
+2025-03-03 11:50:29.186 [info] > git merge-base refs/heads/main refs/remotes/origin/main [5ms]
+2025-03-03 11:50:29.211 [info] > git diff --name-status -z --diff-filter=ADMR eacb05132db737f3233973a280a0217fc9359f85...refs/remotes/origin/main [12ms]
+2025-03-03 11:50:29.213 [info] > git config --get --local branch.main.github-pr-owner-number [3ms]
+2025-03-03 11:50:29.214 [warning] [Git][config] git config failed: Failed to execute git
+2025-03-03 11:50:29.481 [info] > git show --textconv :JavaScript Course/JS Files/01_Basics/01_Console/index.html [16ms]
+2025-03-03 11:50:29.483 [info] > git ls-files --stage -- /home/maguila/gitRepos/Learning-JavaScript/JavaScript Course/JS Files/01_Basics/01_Console/index.html [3ms]
+2025-03-03 11:50:29.500 [info] > git cat-file -s 46aed356430b645c8493bc70b9dfecbcd1134157 [2ms]
+2025-03-03 11:50:29.532 [info] > git blame --root --incremental eacb05132db737f3233973a280a0217fc9359f85 -- /home/maguila/gitRepos/Learning-JavaScript/JavaScript Course/JS Files/01_Basics/01_Console/index.html [5ms]
